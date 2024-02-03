@@ -1,3 +1,4 @@
+//to use getcwd
 #include <unistd.h>
 
 #include <stdio.h>
