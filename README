@@ -1,6 +1,6 @@
-1- mypwd: print working directory (check `man getcwd`)
-2- myecho: print a user input string on stdout (for example:  `echo Hello World`)
-3- mymv: move a file to another place (might be with different name).
+1- mypwd: print working directory.
+2- myecho: print a user input string on stdout (for example: echo Hello World).
+3- mymv: move a file to another place.
 4- Femto support built-in echo, pwd and cd, in addition to exit. 
        - Implement a simple parser to parse the command line entered by the user,
        - divide it to arguments (the only supported separator is the space)
